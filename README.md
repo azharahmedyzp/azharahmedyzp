@@ -7,7 +7,7 @@
 ### 💻 About Me  
 I’m an enthusiastic **Information Technology undergraduate** passionate about **Data Science**, **Artificial Intelligence**, and **Software Development**.  
 I love solving real-world problems through technology and continuously learning new tools to expand my technical expertise.  
-Currently, I’m focused on **Java**, **Python**, and **Data Science**, while strengthening my foundations in **C++**, **Front-End Development**, and modern **AI technologies**.  
+Currently, I’m focused on **Java**, **Python**, and **Data Science**, while strengthening my foundations in **Front-End Development**, and modern **AI technologies**.  
 
 ---
 
