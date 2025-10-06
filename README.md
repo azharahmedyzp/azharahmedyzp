@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Azhar Ahmed Pathan  
+<h1 align="center">👋 Hi, I'm Azhar Ahmed Pathan </h1>h1>
 
-**Data Science & AI | Java & Python | Front-End Development**  
+<h3 align="center">Data Science & AI | Java & Python | Front-End Development</h3>  
 
 ---
 
@@ -82,7 +82,7 @@ Currently, I’m focused on **Java**, **Python**, and **Data Science**, while st
 ---
 
 ## 📫 Connect with Me  
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/azharahmedyzp/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
