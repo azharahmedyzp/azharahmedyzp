@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Azhar Ahmed Pathan  
 
-<!--
-**azharahmedyzp/azharahmedyzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Information Technology Undergraduate Student @ University of Sindh (UoS)**  
+📍 **Pakistan**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me  
+I’m an **Information Technology undergraduate** passionate about exploring the intersection of **Data Science**, **Artificial Intelligence**, and **Software Development**.  
+Currently, I’m expanding my skills in **Java**, **Python**, and **Data Science**, while strengthening my foundations in **C++**, **Web Development (HTML, CSS, JavaScript)**, and emerging **AI technologies**.
+
+---
+
+### 🧠 What I'm Learning  
+- 🌱 Java & Python Programming  
+- 📊 Data Science & AI Fundamentals  
+- 💻 C++ Basics & Object-Oriented Programming  
+- 🌐 Front-End Web Development (HTML, CSS, JavaScript)
+
+---
+
+### 🏅 Achievements  
+- 🥇 **PITP Certified Web Developer**
+
+---
+
+### 🛠️ Tech Stack  
+
+**Languages:**  
+`Java` | `Python` | `C++` | `HTML` | `CSS` | `JavaScript`
+
+**Areas of Interest:**  
+- Data Science  
+- Artificial Intelligence  
+- Software Development
+
+---
+
+### 📈 GitHub Stats  
+
+![Azhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzharAhmedPathan&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzharAhmedPathan&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with Me  
+💼 [LinkedIn](https://www.linkedin.com/in/azharahmedyzp/)  
+📧 [azharahmedyzp@gmail.com](mailto:azharahmedyzp@gmail.com)
+
+---
+
+⭐ *“Learning never exhausts the mind — it fuels innovation.”*
