@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Azhar Ahmed Pathan  
 
 🎓 **Information Technology Undergraduate Student @ University of Sindh (UoS)**  
-📍 **Pakistan**  
+📍  **Pakistan**  
 
 ---
 
@@ -14,7 +14,7 @@ Currently, I’m expanding my skills in **Java**, **Python**, and **Data Science
 ### 🧠 What I'm Learning  
 - 🌱 Java & Python Programming  
 - 📊 Data Science & AI Fundamentals  
-- 💻 C++ Basics & Object-Oriented Programming  
+- 💻 C++ Basics  
 - 🌐 Front-End Web Development (HTML, CSS, JavaScript)
 
 ---
