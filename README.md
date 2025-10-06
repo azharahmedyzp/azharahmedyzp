@@ -68,12 +68,21 @@ Currently, I’m focused on **Java**, **Python**, and **Data Science**, while st
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Urooj-Islam-Khan&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urooj-Islam-Khan&theme=radical" alt="GitHub Streak"/>
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=azharahmedyzp&show_icons=true&count_private=true&theme=radical&hide_title=false&include_all_commits=true" alt="GitHub Stats" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azharahmedyzp&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urooj-Islam-Khan&layout=compact&theme=radical" alt="Top Languages"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharahmedyzp&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- GitHub Contribution Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=azharahmedyzp&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
