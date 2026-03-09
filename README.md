@@ -21,6 +21,7 @@ Currently, I’m focused on **Java**, **Python**, and **Data Science**, while st
 
 ### 🏅 Achievements  
 - 🥇 **PITP Certified Web Developer**
+- 🥇 **PITP Certified Java Developer**
 
 ---
 
