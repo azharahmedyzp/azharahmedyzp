@@ -68,7 +68,7 @@ I am an **Information Technology undergraduate** with a passion for building int
   <a href="https://huggingface.co/azharahmedyzp" target="blank">
     <img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="40" />
   </a>
-  <a href="mailto:azharahmedpathan138@gmail.com" target="blank">
+  <a href="mailto:azharahmedyzp@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40" />
   </a>
 </p>
