@@ -49,8 +49,6 @@ I am an **Information Technology undergraduate** with a passion for building int
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azharahmedyzp&theme=tokyonight" />
 </p>
 
-
-
 ---
 
 ### 📜 Certifications
@@ -59,7 +57,6 @@ I am an **Information Technology undergraduate** with a passion for building int
 - 📜 **Modern AI — Cisco (NetAcad)**
 ---
 
-### 🤝 Connect with Me
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/azharahmedyzp/" target="blank">
@@ -70,9 +67,6 @@ I am an **Information Technology undergraduate** with a passion for building int
   </a>
   <a href="mailto:azharahmedyzp@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40" />
-  </a>
-    <a href="mailto:azharahmedyzp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
