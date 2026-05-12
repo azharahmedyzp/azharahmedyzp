@@ -1,7 +1,7 @@
 # Hi there, I'm Azhar Ahmed Pathan! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;AI+%26+ML+Enthusiast;Deep+Learning+Specialist;Turning+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist;AI+%26+ML+Enthusiast;Deep+Learning+Specialist;Turning+Data+into+Insights" alt="Typing SVG" />
 </div>
 
 ---
@@ -45,23 +45,33 @@ I am an **Information Technology undergraduate** with a passion for building int
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azharahmedyzp&show_icons=true&theme=tokyonight&count_private=true" alt="Azhar's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharahmedyzp&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azharahmedyzp&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azharahmedyzp&theme=tokyonight" />
 </p>
+
+
 
 ---
 
 ### 📜 Certifications
-- 🥇 **PITP Certified Web & Java Developer**
+- 🥇 **PITP Certified Java Developer**
+- 🥇 **PITP Certified Web Developer**
 - 📜 **Modern AI — Cisco (NetAcad)**
-- 🎓 **IT Undergraduate — University of Sindh**
-
 ---
 
 ### 🤝 Connect with Me
+### 🤝 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/azharahmedyzp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azharahmedyzp" height="30" width="40" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/azharahmedyzp/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://huggingface.co/azharahmedyzp" target="blank">
+    <img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="40" />
+  </a>
+  <a href="mailto:azharahmedpathan138@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40" />
+  </a>
 </p>
+
 
 *"Learning never exhausts the mind — it fuels innovation."*
