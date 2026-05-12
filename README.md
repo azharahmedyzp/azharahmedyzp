@@ -71,6 +71,9 @@ I am an **Information Technology undergraduate** with a passion for building int
   <a href="mailto:azharahmedyzp@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40" />
   </a>
+    <a href="mailto:azharahmedyzp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 
