@@ -1,4 +1,4 @@
-# Hi there, I'm Azhar Ahmed Pathan! 👋
+# Hi there, I'm Azhar Ahmed! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;AI+%26+ML+Enthusiast;Deep+Learning+Specialist;Turning+Data+into+Insights" alt="Typing SVG" />
