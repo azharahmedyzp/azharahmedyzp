@@ -34,24 +34,25 @@ I am an **Information Technology undergraduate** with a passion for building int
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[SpamShield-BERT](https://github.com/azharahmedyzp/SpamShield-BERT-HF)** | AI-powered spam detector using BERT Transformers and Flask deployment. | Python, BERT, Flask |
-| **[PneumoDetect](https://github.com/azharahmedyzp/PneumoDetect)** | Medical image classification system for pneumonia detection from X-rays. | CNN, Python, Keras |
-| **[Image Recognition System](https://github.com/azharahmedyzp/CNN-Based_Image_Recognition_System_using_Flask)** | A full-stack CNN application for real-time image recognition. | CNN, Flask, Python |
-| **[Heart Disease Predictor](https://github.com/azharahmedyzp/Heart_Disease_Prediction_Using_Machine_Learning)** | Predictive modeling for early heart disease detection with detailed EDA. | Scikit-learn, Pandas |
-| **[Housing Price ANN](https://github.com/azharahmedyzp/California_Housing_Price_Prediction-ANN)** | Deep Learning regression model for predicting California real estate prices. | ANN, TensorFlow |
-| **[DS Visualization Dashboard](https://github.com/azharahmedyzp/Data_Analysis_and_Visualization_Dashboard)** | Interactive data storytelling using advanced visualization libraries. | Matplotlib, Seaborn |
+| **[SpamShield-BERT](https://github.com/azharahmedp/SpamShield-BERT-HF)** | AI-powered spam detector using BERT Transformers and Flask deployment. | Python, BERT, Flask |
+| **[PneumoDetect](https://github.com/azharahmedp/PneumoDetect)** | Medical image classification system for pneumonia detection from X-rays. | CNN, Python, Keras |
+| **[Image Recognition System](https://github.com/azharahmedp/CNN-Based_Image_Recognition_System_using_Flask)** | A full-stack CNN application for real-time image recognition. | CNN, Flask, Python |
+| **[Heart Disease Predictor](https://github.com/azharahmedp/Heart_Disease_Prediction_Using_Machine_Learning)** | Predictive modeling for early heart disease detection with detailed EDA. | Scikit-learn, Pandas |
+| **[Housing Price ANN](https://github.com/azharahmedp/California_Housing_Price_Prediction-ANN)** | Deep Learning regression model for predicting California real estate prices. | ANN, TensorFlow |
+| **[DS Visualization Dashboard](https://github.com/azharahmedp/Data_Analysis_and_Visualization_Dashboard)** | Interactive data storytelling using advanced visualization libraries. | Matplotlib, Seaborn |
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azharahmedyzp&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azharahmedyzp&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azharahmedp&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azharahmedp&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📜 Certifications
+- 📜 **Certified Data Scientist & AI Engg**
 - 🥇 **PITP Certified Java Developer**
 - 🥇 **PITP Certified Web Developer**
 - 📜 **Modern AI — Cisco (NetAcad)**
@@ -59,10 +60,10 @@ I am an **Information Technology undergraduate** with a passion for building int
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/azharahmedyzp/" target="blank">
+  <a href="https://www.linkedin.com/in/azharahmedp/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" />
   </a>
-  <a href="https://huggingface.co/azharahmedyzp" target="blank">
+  <a href="https://huggingface.co/azharahmedp" target="blank">
     <img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="40" />
   </a>
   <a href="mailto:azharahmedyzp@gmail.com" target="blank">
